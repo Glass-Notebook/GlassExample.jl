@@ -1,3 +1,3 @@
 # GlassExample.jl
 
-Example repository for [glassnotebook.io](glassnotebook.io)'s interactivity
+Example repository for [glassnotebook.io](https://glassnotebook.io/auth)'s interactivity
